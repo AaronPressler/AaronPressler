@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AaronPressler
 - 👀 I’m interested in Planes and Programming
-- 🌱 I’m currently learning C# and HTML
+- 🌱 I’m currently learning .NET MAUI
 - 📫 How to reach me aaron.pressler333@gmail.com or 'gameraaron' on discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: :)
